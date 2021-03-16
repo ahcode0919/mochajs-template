@@ -1,1 +1,1 @@
-# mochajs-template
+# MochaJS Template Project
