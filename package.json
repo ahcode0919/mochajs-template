@@ -1,0 +1,27 @@
+{
+  "name": "mochajs-template",
+  "version": "0.0.1",
+  "description": "MochaJS template project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahcode0919/mochajs-template.git"
+  },
+  "keywords": [
+    "mochajs",
+    "javascript",
+    "testing"
+  ],
+  "author": "Aaron Hinton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahcode0919/mochajs-template/issues"
+  },
+  "homepage": "https://github.com/ahcode0919/mochajs-template#readme",
+  "dependencies": {
+    "mocha": "^8.3.2"
+  }
+}
