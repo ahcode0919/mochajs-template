@@ -1,4 +1,4 @@
-const expect = require('chai').expect;
+import { expect } from 'chai';
 
 describe('Outer Describe', function () {
     it('Example Test 1', function () {
